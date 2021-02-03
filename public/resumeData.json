@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Juan Kasem",
+    "occupation": "A Full-stack web developer",
+    "description": "Who is able to create seamless, rich-content & efficient web & mobile apps",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I'm Juan A result-driven, self-motivated, & enthusiastic software engineer who is passionate about building solid, reliable, & rich-content web & mobile applications within ASP.NET, ASP.NET core & Node.js Frameworks on the back-end side & Angular & React js on the Front-end side with the aim to reach the best performance & user experience possible.",
+    "contactmessage": "Get in touch with me to explore & share any idea!",
+    "email": "juankasem982@gmail.com",
+    "phone": "+90 5388648521",
+    "address": {
+      "street": "432 str",
+      "city": "Izmir",
+      "state": "Izmir",
+      "zip": "35320"
+    },
+    "website": "https://www.juankasem.com",
+    "resumedownload": "http://juankasem.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "facebook.com/juan.kasem",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.cn/in/juan-kasem-0bb62765/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/juankasem/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/juankasem",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Technical Skills Proficiency",
+    "education": [
+      {
+        "school": "University of Aleppo - Syria",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "August 2006",
+        "description": "Graduated with Excellent degree"
+      }
+    ],
+    "work": [
+      {
+        "company": "virtuDev",
+        "title": "Senior Developer",
+        "years": "Nov 2020 - Present",
+        "description": "Design, Develop & Test new features within multiple frameworks & tools Anagular & .NET core, Gitlab, etc.."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "ASP.NET",
+        "level": "85%"
+      },
+      {
+        "name": "C#",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Little Caesars pizza (React JS)",
+        "category": "",
+        "image": "",
+        "url": "https://littlecaesars.com.tr"
+      },
+      {
+        "title": "Bitcoin Blockchain system",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Juan is absolutelyhard-working, his depth of knowledge helped us a lot in our work... I would definitely recommend",
+        "user": "Rami Assi"
+      },
+      {
+        "text": "Juan is multi-talent & well-informed guy, it was a great joy & pleasure to work with him!",
+        "user": "Abdullah Khandash"
+      }
+    ]
+  }
+}
